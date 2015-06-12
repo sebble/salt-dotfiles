@@ -1,0 +1,4 @@
+~/.ssh/authorized_keys:
+  file.append:
+    - text:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC9k4VPmHfFZ7rjzbHlGCPC/qcPs/I84V5qI8sYyTB+pYN5iaOiOudZswwh06xRgJHvaA+lSeQwWfHlv7rLLAMoQvYl7m4AKDf+iTSyJcTfXZXu/ufWvSwCztsHoBCHiLINiqjZo2q7pXZgOYkRPlsLAdMdALV879ST1zFaao9awKLHAEgfNhA1HwE7eJXatBhKMKz5jenXk7AanfuEqYFgBMausB5qZMHA5iul1mHwGzSN5xuGaVHe/w/gDKcA2ZRJrgJZjMzHvX0g3p9UubE8kpROQHuAA8VMmMPm/yVzQ8tQ5j5G+R5A0SHKXTkYxnrjFzQ3aaUh992r4MGlHV0v sebastian@arluf
