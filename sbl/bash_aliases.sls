@@ -1,4 +1,4 @@
-bash_defaults:
+bash_aliases:
   file.append:
     - name: ~/.bashrc
     - text:
