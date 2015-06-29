@@ -11,7 +11,7 @@ bash_prompt:
         fi
         export PS1
 
-bash_prompt:
+bash_prompt_root:
   file.append:
     - name: /root/.bashrc
     - text: |
