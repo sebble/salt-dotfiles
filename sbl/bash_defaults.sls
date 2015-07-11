@@ -4,4 +4,4 @@ bash_defaults:
     - text:
       - export TERM='xterm-256color'
       - export EDITOR='vi'
-      - PATH=~/bin:$PATH; export PATH
+      - export PATH=~/bin:$PATH; export PATH
